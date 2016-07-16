@@ -1,0 +1,9 @@
+body{background:#fff;color:#333;-webkit-text-size-adjust:100%}
+#title{display:none}
+#container{background:#fff;color:#333;line-height:1.4em;font-size:1.2em;margin-left:auto;margin-right:auto}
+p{margin:.6em 0}
+a:hover,a:link,a:visited{color:#112582}
+section{margin:12px 0}
+section:last-child{margin-bottom:0}
+@media only screen and (max-width:649px){#container{padding:8px;margin:0;max-width:100%;width:100%;font-size:.9em;line-height:1.5em}
+#content{min-height:300px}}
