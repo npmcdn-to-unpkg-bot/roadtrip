@@ -1,2 +1,7 @@
-# roadtrip
-A website to help me plan and broadcast my trip across the US
+# Roadtrip Website
+
+This is a website I'm using to plan and share my planned US roadtrip. 
+
+Right now I'm using:
++ Google Sheets
++ Leaflet
